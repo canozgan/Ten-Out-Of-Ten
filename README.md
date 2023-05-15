@@ -13,4 +13,5 @@ Technical Details
 5)If the user successfully completes the challenge, a random card is selected from the firebase. The information of the cards previously won by the user are saved using the SQLite Database.
 
 <img width="642" alt="ten_out_of_ten_1" src="https://github.com/canozgan/Ten-Out-Of-Ten/assets/129083272/4c30c7ff-1fa6-4397-9e30-5978104017df">
+
 <img width="640" alt="ten_out_of_ten_2" src="https://github.com/canozgan/Ten-Out-Of-Ten/assets/129083272/f6ebe0f4-1ef2-4ae6-a198-181841e05bbd">
